@@ -1,0 +1,7 @@
+04.09.2024 - Begin work
+			- Createte PCB project, add all parts to library
+
+			
+
+
+
